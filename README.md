@@ -1,7 +1,7 @@
 # Macronutrient-Esitmation-520
 Experiment_1: Contains an example of the macronutrient esitmation training notebook used Experiment 1 (regression). 
 
-Experiemnt_2_3: Contains examples of the softmax to macornutrient prediction process from Experiment 2 and 3. It includes a basic ResNet approach as well as the modified Assembled Resnet. Also contains a notebook showing how the TFRecords were made and shows the training notebook for the Assmebled ResNet model. 
+Experiemnt_2_3: Contains examples of the softmax to macronutrient prediction process from Experiment 2 and 3. It includes a basic ResNet approach as well as the modified Assembled Resnet. Also contains a notebook showing how the TFRecords were made and shows the training notebook for the Assmebled ResNet model. 
 
 assembled_resnet_modified: contains the modified code + the orginal from https://github.com/clovaai/assembled-cnn. Modified code is found in assemble_resnet_modified/utils/export_utils.py
 
